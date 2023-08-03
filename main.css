@@ -1,0 +1,258 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Slab', serif;
+}
+
+/* //////////////////////////////////////////////////////////////////////////////////////// */
+.navbar {
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    line-height: 93px;
+    color: black;
+}
+
+
+
+.left-w h1 {
+    font-size: 3.5rem;
+    color: black;
+    float: left;
+}
+
+
+
+.right ul {
+    display: flex;
+    list-style: none;
+}
+
+.right ul li a {
+    padding: 10px 25px;
+    font-size: 1.2rem;
+    color: black;
+    text-decoration: none;
+}
+
+.right ul li a:hover {
+    color: red;
+}
+
+
+/*                                    part-2                            */
+
+
+.img-ane-side-nu-box {
+    width: 100%;
+    display: flex;
+}
+
+.img-ne-niche-no-text {
+    width: 60%;
+    height: 500px;
+}
+
+.chucha {
+
+    height: 240px;
+}
+
+
+.img_set {
+    display: flex;
+    justify-content: center;
+    padding-left: 9rem;
+    padding-bottom: 10PX;
+
+}
+
+.heding-type-text {
+    font-size: 25px;
+    width: 393px;
+    /* height: 184px; */
+    max-width: 30%;
+}
+
+.text-box-btn-valu p {
+    width: 282px;
+    height: 236px;
+    padding: 3px;
+    margin-left: 118px;
+    font-size: 19px;
+}
+
+.pikachu {
+    font-size: 58px;
+    width: 298px;
+    height: 240px;
+}
+
+
+.btn-p {
+    background-color: #f05252;
+    padding: 0px;
+    width: 175px;
+    height: 46px;
+    margin-top: 44px;
+    color: white;
+    border-radius: 12px;
+}
+
+.tow-box-mine-div {
+    display: flex;
+    padding-left: 230px;
+}
+
+
+/* /////////////////////////////////////////////////////////////////////////////////// */
+
+
+.main-side-black-box {
+    background-color: #110e1c;
+    color: white;
+    height: 452px;
+    width: 25%;
+    margin: 0 -42px;
+    padding: 20px;
+    overflow-y: scroll;
+    scrollbar-width: thin;
+    scrollbar-color: transparent transparent;
+}
+
+
+.main-side-black-box::-webkit-scrollbar {
+    width: 6px;
+}
+
+.main-side-black-box::-webkit-scrollbar-thumb {
+    background-color: transparent;
+}
+
+.main-side-black-box::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+/* ///////////////////////////////////////////////////////////////////// */
+
+/*                               part-3                                  */
+
+
+.thre-box-main-div {
+    display: flex;
+    /* border: 1px solid black; */
+}
+
+.last-div-three-yo {
+    display: flex;
+}
+
+.nthi-levu-pan-try {
+    justify-content: center;
+    align-items: center;
+}
+
+.broder-r img {
+    width: 118px;
+}
+
+
+.new {
+    color: #b09a1f;
+    font-size: 44px;
+}
+
+.one {
+    padding: 10px;
+}
+
+
+
+.bb-key {
+    display: flex;
+    flex-direction: column;
+    gap: 23px;
+}
+
+.j-for {
+    font-size: 23px;
+    margin-top: 24px;
+}
+
+.side-j {
+    width: 297px;
+    margin-top: 15px;
+}
+
+
+.a-for {
+    font-size: 23px;
+    margin-top: 24px;
+}
+
+.side-a {
+    width: 263px;
+    margin-top: 6px;
+}
+
+
+.y-for {
+    font-size: 23px;
+    margin-top: 24px;
+}
+
+.side-y {
+    width: 297px;
+    margin-top: 15px;
+}
+
+.text-main-div {
+    color: white;
+}
+
+/* //////////////////////////////////////////////////////////////////////////////////////////////// */
+
+
+
+
+.thre-box-main-div {
+    display: flex;
+    /* border: 1px solid black; */
+    width: 84%;
+    margin-left: 232px;
+    margin-top: 33px;
+}
+
+.nthi-j h1 {
+    color: #a2b2c0;
+    margin-left: 18px;
+    font-size: 48px;
+}
+
+
+.nthi-j h3 {
+    font-size: 20px;
+    margin-left: 19px;
+    margin-top: 13px;
+}
+
+.nthi-j p {
+    font-size: 18px;
+    margin-left: 17px;
+    margin-top: 10px;
+
+}
+
+.nthi-j top {
+    max-width: 20px;
+}
+
+
+.last-div-three-yo {
+    width: 28%;
+}
+
+.pandemic {
+
+    width: 116%;
+}
